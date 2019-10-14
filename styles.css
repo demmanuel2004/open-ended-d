@@ -1,0 +1,11 @@
+.header {
+  font-weight: bold;
+  color: blue;
+  font-size: 21;
+}
+
+p {
+  font-style: italic;
+  color: red;
+  font-size: 14;
+}
